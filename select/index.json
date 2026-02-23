@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "今日だけ I LOVE YOU (Japanese Ver.)",
+  "base_artist": "BOYNEXTDOOR",
+  "createdAt": "2026-02-23T07:17:17.222133Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今日だけ I LOVE YOU - Japanese Ver.",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/01_今日だけ_I_LOVE_YOU_-_Japanese_Ver._BOYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "今日だけ I LOVE YOU (Japanese Ver.) - IF I SAY, I LOVE YOU (Japanese Ver.)",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/02_今日だけ_I_LOVE_YOU_(Japanese_Ver.)_-_IF_I_SAY,_I_LOVE_YOU_(Japanese_Ver.)_BOYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "今日だけ I LOVE YOU / IF I SAY, I LOVE YOU (Japanese Ver.)",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/03_今日だけ_I_LOVE_YOU___IF_I_SAY,_I_LOVE_YOU_(Japanese_Ver.)_BOYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "05_今日だけ……ですからね……？",
+      "artist": "なつこん",
+      "has_synced": true,
+      "path": "select/04_05_今日だけ......ですからね......_なつこん.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "chapter5：今日だけ、添い寝がしたい、というか…。",
+      "artist": "きらきらおんぷ",
+      "has_synced": true,
+      "path": "select/05_chapter5_今日だけ、添い寝がしたい、というか...。_きらきらおんぷ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Track2.今日だけ、特別ですからね…？",
+      "artist": "Diebrust(ディーブルスト)",
+      "has_synced": true,
+      "path": "select/06_Track2.今日だけ、特別ですからね..._Diebrust(ディーブルスト).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今日だけ I LOVE YOU (Japanese Ver.)",
+      "artist": "BOYNEXTDOOR",
+      "has_synced": false,
+      "path": "select/pl_01_今日だけ_I_LOVE_YOU_(Japanese_Ver.)_BOYNEXTDOOR.txt"
+    }
+  ]
+}
